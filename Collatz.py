@@ -1,5 +1,4 @@
-# Project-Euler-problems
-My codes for certain problems in Project Euler.
+# Solution to Longets Collatz Problem
 maxx=0
 maximum=[]
 def Collatz(n):
